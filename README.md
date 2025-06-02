@@ -16,7 +16,8 @@ A simple and elegant Flutter weather application that displays current weather i
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here (e.g., home screen, search screen, etc.)_
+![temp_Screenshot_20250602-200455](https://github.com/user-attachments/assets/33ac2cce-014a-4bb8-85e2-5e7b47ec855e)
+
 
 ## 📦 Installation
 
