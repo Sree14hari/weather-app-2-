@@ -24,7 +24,7 @@ A simple and elegant Flutter weather application that displays current weather i
    ```bash
    git clone https://github.com/Sree14hari/weather-app-2-.git
    cd weather-app-2-
-````
+   ```
 
 2. **Get the dependencies:**
 
